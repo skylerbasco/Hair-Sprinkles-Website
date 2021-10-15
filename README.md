@@ -1,2 +1,4 @@
 # Hair-Sprinkles-Website
-Custom CSS code for a hair business' Squarespace website.
+Custom CSS code for the Squarespace website for Hair Sprinkles, a hair accessories business. 
+
+https://hairsprinkles.com
